@@ -1,1 +1,3 @@
 This is master branch file
+second line added
+third line
